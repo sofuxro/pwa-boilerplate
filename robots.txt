@@ -1,0 +1,8 @@
+# www.robotstxt.org/
+# www.google.com/support/webmasters/bin/answer.py?hl=en&answer=156449
+
+User-agent: *
+Disallow:
+
+#Sitemaps
+#Sitemap: https://xenodochial-ardinghelli-66480d.netlify.com/pwa/sitemap.xml
